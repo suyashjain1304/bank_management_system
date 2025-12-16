@@ -7,7 +7,7 @@ This project demonstrates structured programming, role-based access (Admin & Cus
 
 ## 📌 Author
 **SUYASH JAIN**  
-- 📧 Email: [akhileshtiwari8033@gmail.com](mailto:suyashjain385@gmail.com) 
+- 📧 Email: [suyashjain385@gmail.com](mailto:suyashjain385@gmail.com) 
 
 ---
 
