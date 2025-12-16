@@ -6,13 +6,8 @@ This project demonstrates structured programming, role-based access (Admin & Cus
 ---
 
 ## 📌 Author
-**Akhilesh Tiwari**  
-- 📧 Email: [akhileshtiwari8033@gmail.com](mailto:akhileshtiwari8033@gmail.com) 
-- 🌐 GitHub: [github.com/asdtiwari](https://github.com/asdtiwari)
-- 🤵 LinkedIn: [asdtiwari](https://linkedin.com/in/asdtiwari)
-- 💬 Twitter: [asdtiwari](https://x.com/asdtiwari)
-- 👤 Leetcode: [asdtiwari](https://leetcode.com/asdtiwari)
-- 📷 Instagram: [asdtiwari](https://instagram.com/asdtiwari)
+**SUYASH JAIN**  
+- 📧 Email: [akhileshtiwari8033@gmail.com](mailto:suyashjain385@gmail.com) 
 
 ---
 
